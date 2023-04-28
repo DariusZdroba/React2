@@ -1,19 +1,29 @@
 {
   "items": [
     {
-      "id": 2,
-      "checked": true,
-      "item": "Pizza"
-    },
-    {
-      "id": 3,
-      "checked": true,
-      "item": "Bread"
-    },
-    {
-      "id": 4,
+      "id": 6,
       "checked": false,
-      "item": "piza"
+      "item": "Ciocolata"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "Chips"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "Iaurt"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "Cartofi"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "item": "Pateu"
     }
   ]
 }
