@@ -98,7 +98,7 @@ finally{
      />
      <main>
       {isLoading && <p>Loading items...</p>}
-      {fetchError && <p style = {{color: "red"}}>{'Error: ${fetchError}'}</p>}
+      {fetchError && <p style = {{color: "red"}}>{`Error: ${fetchError}`}</p>}
      {!fetchError && !isLoading && <Content 
      items = {items.filter(item =>((item.item).toLowerCase()).includes(search.toLowerCase()))}
      handleCheck = {handleCheck}

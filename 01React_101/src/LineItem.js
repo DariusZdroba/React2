@@ -16,7 +16,7 @@ const LineItem = ({item, handleCheck, handleDelete}) => {
         onClick = {() => handleDelete (item.id)}
         role="button"
         tabIndex="0"
-        arial-label={'Delete ${item.item}'}
+        arial-label={`Delete ${item.item}`}
         />
         
         
