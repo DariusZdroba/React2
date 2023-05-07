@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "titlu4",
+      "datetime": "May 07, 2023 6:18:04 PM",
+      "body": "ce vrei tuf"
+    },
+    {
+      "id": 3,
+      "title": "asa",
+      "datetime": "May 07, 2023 8:19:39 PM",
+      "body": "asaaaa"
+    },
+    {
+      "id": 4,
+      "title": "dass",
+      "datetime": "May 07, 2023 8:19:58 PM",
+      "body": "ba"
+    }
+  ]
+}
